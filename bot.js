@@ -33,21 +33,21 @@ global.APIKeys = {
 }
 
 //settings
-global.owner = ['27634090203',''] //owner number +27634090203
-global.wame = ['27634090203'] 
-global.pemilik = ['27634090203'] //owner number +27634090203
-global.premium = ['27634090203'] //premium number +27634090203
-global.pengguna = 'Drips' //username
-global.footer = 'ZIM BOT INC'
-global.botnma = 'ZIM BOT INC' //bot name
-global.botname = 'ZIM BOT V4'
-global.ownernma = 'Drips' //owner name
-global.packname = 'Drips' //sticker package name
-global.author = 'By Drips Memes' //sticker author name
+global.owner = ['94770378874',''] //owner number +27634090203
+global.wame = ['94770378874'] 
+global.pemilik = ['94770378874'] //owner number +27634090203
+global.premium = ['94770378874'] //premium number +27634090203
+global.pengguna = 'SUNETH' //username
+global.footer = 'SUKI BOT INC'
+global.botnma = 'SUKI BOT INC' //bot name
+global.botname = 'SUKI BOT V4'
+global.ownernma = 'SUNETH' //owner name
+global.packname = 'SUNETH' //sticker package name
+global.author = 'By SUNETH Memes' //sticker author name
 global.sessionName = 'session' //session name
 global.prefa = ['#','!','/',''] //prefix
 global.sp = '🔵' //sp
-global.dripstyping = false
+global.dripstyping = true
 global.dripsreadgroup = false
 global.dripsreadall = false
 global.dripsrecord = false
@@ -55,7 +55,7 @@ global.available = false
 global.unavailable = true
 global.limittot = 100,
 global.thumb = fs.readFileSync('./Zimbot/drips.jpg')
-global.reactmoji = '🇿🇼'
+global.reactmoji = '👼'
 global.imgjoinrpg = fs.readFileSync('./image/joinrpg.jpg')
 global.imgmining = fs.readFileSync('./image/mining.jpg')
 global.imgdevil = fs.readFileSync('./image/img/devil.jpg')
@@ -74,7 +74,7 @@ global.flaming = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=tru
 global.mess = {
     success: 'Takaenda Done!',
     admin: '*This feature is only for admin!*',
-    botAdmin: '*zim bot  must be admin first!*',
+    botAdmin: '*SUKI bot  must be admin first!*',
     owner: '*this feature is only for zimbot owner*',
     group: '*Feature is only for groups!*',
     grouponly: '*Group Mode Only*',
